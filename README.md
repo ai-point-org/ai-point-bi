@@ -17,6 +17,18 @@
 | 权限管理 | JWT 本地登录，RBAC 角色与知识库资源权限 |
 | 运营支撑 | 查询历史、反馈记录、性能指标（部分待完善） |
 
+### 系统截图
+
+以下为 **AI源点 BI** 主要界面示意：
+
+| 界面一 | 界面二 |
+|:---:|:---:|
+| ![系统截图 1](https://www.linkmes.com.cn/assets/img/bi01.png) | ![系统截图 2](https://www.linkmes.com.cn/assets/img/bi02.png) |
+
+| 界面三 | 界面四 |
+|:---:|:---:|
+| ![系统截图 3](https://www.linkmes.com.cn/assets/img/bi03.png) | ![系统截图 4](https://www.linkmes.com.cn/assets/img/bi04.png) |
+
 ---
 
 ## 二、技术栈
